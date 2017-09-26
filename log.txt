@@ -1,0 +1,62 @@
+commit cf3a7a8748a5eb0cc7a058549da98a36bee43057
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Sep 26 12:33:08 2017 +0200
+
+    dateiSub3.txt hinzugefügt
+
+ subdirectory/dateiSub3.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit aa4b4c0a7a5e81a2344a6324456c8212274b1526
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Sep 26 12:23:12 2017 +0200
+
+    hallo welt hinzugefügt zur dateiSub2.txt
+
+ subdirectory/dateiSub2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 17134fe4828525ccafc5a7a68188f6cee70dc734
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Sep 26 12:17:32 2017 +0200
+
+    dateiSub2.txt in Subdirectory erzeugt
+
+ subdirectory/dateiSub2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit bfdd5586fb88b9ff5fe7ceacce0d6f1b265236b8
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Sep 26 12:17:01 2017 +0200
+
+    dateiSub1.txti n Subdirectory erzeugt
+
+ subdirectory/dateiSub1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 84925c240b04c5f107b16a452807b2faafb704cd
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Sep 26 12:15:42 2017 +0200
+
+    datei2.txt erzeugt
+
+ datei2.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d16d0437905d79bf25ba95b71e373e9f473e1dc1
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Sep 26 12:15:29 2017 +0200
+
+    datei1.txt erzeugt
+
+ datei1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 07c9c5ecb23a2f38c7096bb8eecf4c7829b5193f
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Sep 26 12:13:41 2017 +0200
+
+    *.class zu gitignore hinzugefügt
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
